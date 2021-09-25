@@ -2,6 +2,6 @@ package test
 
 import "fmt"
 
-func remotetestfunc() {
+func Remotetestfunc() {
 	fmt.Println("test print")
 }
